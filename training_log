@@ -1,0 +1,253 @@
+真新闻指标:
+Precision=0.6622, Recall=1.0000, F1-score=0.7968
+假新闻指标:
+Precision=1.0000, Recall=0.1653, F1-score=0.2837
+Epoch 1/40, Train Loss: 1.2416, Val Loss: 1.0612, Val Accuracy: 0.6834
+真新闻指标:
+Precision=0.9029, Recall=0.9394, F1-score=0.9208
+假新闻指标:
+Precision=0.8938, Recall=0.8347, F1-score=0.8632
+Epoch 2/40, Train Loss: 0.8861, Val Loss: 0.5548, Val Accuracy: 0.8997
+真新闻指标:
+Precision=0.9394, Recall=0.9394, F1-score=0.9394
+假新闻指标:
+Precision=0.9008, Recall=0.9008, F1-score=0.9008
+Epoch 3/40, Train Loss: 0.5230, Val Loss: 0.3914, Val Accuracy: 0.9248
+真新闻指标:
+Precision=0.9442, Recall=0.9394, F1-score=0.9418
+假新闻指标:
+Precision=0.9016, Recall=0.9091, F1-score=0.9053
+Epoch 4/40, Train Loss: 0.3793, Val Loss: 0.3576, Val Accuracy: 0.9279
+真新闻指标:
+Precision=0.9534, Recall=0.9293, F1-score=0.9412
+假新闻指标:
+Precision=0.8889, Recall=0.9256, F1-score=0.9069
+Epoch 5/40, Train Loss: 0.3191, Val Loss: 0.3553, Val Accuracy: 0.9279
+真新闻指标:
+Precision=0.9683, Recall=0.9242, F1-score=0.9457
+假新闻指标:
+Precision=0.8846, Recall=0.9504, F1-score=0.9163
+Epoch 6/40, Train Loss: 0.2611, Val Loss: 0.3788, Val Accuracy: 0.9342
+真新闻指标:
+Precision=0.9632, Recall=0.9242, F1-score=0.9433
+假新闻指标:
+Precision=0.8837, Recall=0.9421, F1-score=0.9120
+Epoch 7/40, Train Loss: 0.2211, Val Loss: 0.3963, Val Accuracy: 0.9310
+真新闻指标:
+Precision=0.9403, Recall=0.9545, F1-score=0.9474
+假新闻指标:
+Precision=0.9237, Recall=0.9008, F1-score=0.9121
+Epoch 8/40, Train Loss: 0.1908, Val Loss: 0.3655, Val Accuracy: 0.9342
+真新闻指标:
+Precision=0.9403, Recall=0.9545, F1-score=0.9474
+假新闻指标:
+Precision=0.9237, Recall=0.9008, F1-score=0.9121
+Epoch 9/40, Train Loss: 0.1542, Val Loss: 0.3665, Val Accuracy: 0.9342
+真新闻指标:
+Precision=0.9447, Recall=0.9495, F1-score=0.9471
+假新闻指标:
+Precision=0.9167, Recall=0.9091, F1-score=0.9129
+Epoch 10/40, Train Loss: 0.1268, Val Loss: 0.4009, Val Accuracy: 0.9342
+真新闻指标:
+Precision=0.9400, Recall=0.9495, F1-score=0.9447
+假新闻指标:
+Precision=0.9160, Recall=0.9008, F1-score=0.9083
+Epoch 11/40, Train Loss: 0.1097, Val Loss: 0.4222, Val Accuracy: 0.9310
+真新闻指标:
+Precision=0.9788, Recall=0.9343, F1-score=0.9561
+假新闻指标:
+Precision=0.9000, Recall=0.9669, F1-score=0.9323
+Epoch 12/40, Train Loss: 0.0937, Val Loss: 0.4751, Val Accuracy: 0.9467
+真新闻指标:
+Precision=0.9686, Recall=0.9343, F1-score=0.9512
+假新闻指标:
+Precision=0.8984, Recall=0.9504, F1-score=0.9237
+Epoch 13/40, Train Loss: 0.0812, Val Loss: 0.4717, Val Accuracy: 0.9404
+真新闻指标:
+Precision=0.9683, Recall=0.9242, F1-score=0.9457
+假新闻指标:
+Precision=0.8846, Recall=0.9504, F1-score=0.9163
+Epoch 14/40, Train Loss: 0.0710, Val Loss: 0.5576, Val Accuracy: 0.9342
+真新闻指标:
+Precision=0.9590, Recall=0.9444, F1-score=0.9517
+假新闻指标:
+Precision=0.9113, Recall=0.9339, F1-score=0.9224
+Epoch 15/40, Train Loss: 0.0642, Val Loss: 0.4992, Val Accuracy: 0.9404
+真新闻指标:
+Precision=0.9497, Recall=0.9545, F1-score=0.9521
+假新闻指标:
+Precision=0.9250, Recall=0.9174, F1-score=0.9212
+Epoch 16/40, Train Loss: 0.0450, Val Loss: 0.5217, Val Accuracy: 0.9404
+真新闻指标:
+Precision=0.9543, Recall=0.9495, F1-score=0.9519
+假新闻指标:
+Precision=0.9180, Recall=0.9256, F1-score=0.9218
+Epoch 17/40, Train Loss: 0.0429, Val Loss: 0.5157, Val Accuracy: 0.9404
+真新闻指标:
+Precision=0.9495, Recall=0.9495, F1-score=0.9495
+假新闻指标:
+Precision=0.9174, Recall=0.9174, F1-score=0.9174
+Epoch 18/40, Train Loss: 0.0382, Val Loss: 0.5799, Val Accuracy: 0.9373
+真新闻指标:
+Precision=0.9495, Recall=0.9495, F1-score=0.9495
+假新闻指标:
+Precision=0.9174, Recall=0.9174, F1-score=0.9174
+Epoch 19/40, Train Loss: 0.0328, Val Loss: 0.6328, Val Accuracy: 0.9373
+真新闻指标:
+Precision=0.9487, Recall=0.9343, F1-score=0.9415
+假新闻指标:
+Precision=0.8952, Recall=0.9174, F1-score=0.9061
+Epoch 20/40, Train Loss: 0.0296, Val Loss: 0.6472, Val Accuracy: 0.9279
+真新闻指标:
+Precision=0.9492, Recall=0.9444, F1-score=0.9468
+假新闻指标:
+Precision=0.9098, Recall=0.9174, F1-score=0.9136
+Epoch 21/40, Train Loss: 0.0219, Val Loss: 0.6856, Val Accuracy: 0.9342
+真新闻指标:
+Precision=0.9495, Recall=0.9495, F1-score=0.9495
+假新闻指标:
+Precision=0.9174, Recall=0.9174, F1-score=0.9174
+Epoch 22/40, Train Loss: 0.0250, Val Loss: 0.6959, Val Accuracy: 0.9373
+真新闻指标:
+Precision=0.9635, Recall=0.9343, F1-score=0.9487
+假新闻指标:
+Precision=0.8976, Recall=0.9421, F1-score=0.9194
+Epoch 23/40, Train Loss: 0.0244, Val Loss: 0.7196, Val Accuracy: 0.9373
+真新闻指标:
+Precision=0.9447, Recall=0.9495, F1-score=0.9471
+假新闻指标:
+Precision=0.9167, Recall=0.9091, F1-score=0.9129
+Epoch 24/40, Train Loss: 0.0193, Val Loss: 0.7337, Val Accuracy: 0.9342
+真新闻指标:
+Precision=0.9492, Recall=0.9444, F1-score=0.9468
+假新闻指标:
+Precision=0.9098, Recall=0.9174, F1-score=0.9136
+Epoch 25/40, Train Loss: 0.0192, Val Loss: 0.7235, Val Accuracy: 0.9342
+真新闻指标:
+Precision=0.9444, Recall=0.9444, F1-score=0.9444
+假新闻指标:
+Precision=0.9091, Recall=0.9091, F1-score=0.9091
+Epoch 26/40, Train Loss: 0.0166, Val Loss: 0.7507, Val Accuracy: 0.9310
+真新闻指标:
+Precision=0.9447, Recall=0.9495, F1-score=0.9471
+假新闻指标:
+Precision=0.9167, Recall=0.9091, F1-score=0.9129
+Epoch 27/40, Train Loss: 0.0148, Val Loss: 0.7672, Val Accuracy: 0.9342
+真新闻指标:
+Precision=0.9492, Recall=0.9444, F1-score=0.9468
+假新闻指标:
+Precision=0.9098, Recall=0.9174, F1-score=0.9136
+Epoch 28/40, Train Loss: 0.0135, Val Loss: 0.7717, Val Accuracy: 0.9342
+真新闻指标:
+Precision=0.9447, Recall=0.9495, F1-score=0.9471
+假新闻指标:
+Precision=0.9167, Recall=0.9091, F1-score=0.9129
+Epoch 29/40, Train Loss: 0.0129, Val Loss: 0.7542, Val Accuracy: 0.9342
+真新闻指标:
+Precision=0.9538, Recall=0.9394, F1-score=0.9466
+假新闻指标:
+Precision=0.9032, Recall=0.9256, F1-score=0.9143
+Epoch 30/40, Train Loss: 0.0176, Val Loss: 0.8751, Val Accuracy: 0.9342
+真新闻指标:
+Precision=0.9406, Recall=0.9596, F1-score=0.9500
+假新闻指标:
+Precision=0.9316, Recall=0.9008, F1-score=0.9160
+Epoch 31/40, Train Loss: 0.0165, Val Loss: 0.8498, Val Accuracy: 0.9373
+真新闻指标:
+Precision=0.9444, Recall=0.9444, F1-score=0.9444
+假新闻指标:
+Precision=0.9091, Recall=0.9091, F1-score=0.9091
+Epoch 32/40, Train Loss: 0.0153, Val Loss: 0.8751, Val Accuracy: 0.9310
+真新闻指标:
+Precision=0.9350, Recall=0.9444, F1-score=0.9397
+假新闻指标:
+Precision=0.9076, Recall=0.8926, F1-score=0.9000
+Epoch 33/40, Train Loss: 0.0164, Val Loss: 0.8591, Val Accuracy: 0.9248
+真新闻指标:
+Precision=0.9397, Recall=0.9444, F1-score=0.9421
+假新闻指标:
+Precision=0.9083, Recall=0.9008, F1-score=0.9046
+Epoch 34/40, Train Loss: 0.0185, Val Loss: 0.8826, Val Accuracy: 0.9279
+真新闻指标:
+Precision=0.9403, Recall=0.9545, F1-score=0.9474
+假新闻指标:
+Precision=0.9237, Recall=0.9008, F1-score=0.9121
+Epoch 35/40, Train Loss: 0.0050, Val Loss: 0.8651, Val Accuracy: 0.9342
+真新闻指标:
+Precision=0.9436, Recall=0.9293, F1-score=0.9364
+假新闻指标:
+Precision=0.8871, Recall=0.9091, F1-score=0.8980
+Epoch 36/40, Train Loss: 0.0061, Val Loss: 0.9521, Val Accuracy: 0.9216
+真新闻指标:
+Precision=0.9444, Recall=0.9444, F1-score=0.9444
+假新闻指标:
+Precision=0.9091, Recall=0.9091, F1-score=0.9091
+Epoch 37/40, Train Loss: 0.0058, Val Loss: 0.9148, Val Accuracy: 0.9310
+真新闻指标:
+Precision=0.9442, Recall=0.9394, F1-score=0.9418
+假新闻指标:
+Precision=0.9016, Recall=0.9091, F1-score=0.9053
+Epoch 38/40, Train Loss: 0.0062, Val Loss: 0.9514, Val Accuracy: 0.9279
+真新闻指标:
+Precision=0.9394, Recall=0.9394, F1-score=0.9394
+假新闻指标:
+Precision=0.9008, Recall=0.9008, F1-score=0.9008
+Epoch 39/40, Train Loss: 0.0054, Val Loss: 0.9921, Val Accuracy: 0.9248
+真新闻指标:
+Precision=0.9442, Recall=0.9394, F1-score=0.9418
+假新闻指标:
+Precision=0.9016, Recall=0.9091, F1-score=0.9053
+Epoch 40/40, Train Loss: 0.0043, Val Loss: 0.9604, Val Accuracy: 0.9279
+
+Early Stopping
+真新闻指标:
+Precision=0.6535, Recall=1.0000, F1-score=0.7904
+假新闻指标:
+Precision=1.0000, Recall=0.1322, F1-score=0.2336
+Epoch 1/40, Train Loss: 1.2377, Val Loss: 1.0559, Val Accuracy: 0.6708
+真新闻指标:
+Precision=0.9378, Recall=0.9141, F1-score=0.9258
+假新闻指标:
+Precision=0.8651, Recall=0.9008, F1-score=0.8826
+Epoch 2/40, Train Loss: 0.8702, Val Loss: 0.5496, Val Accuracy: 0.9091
+真新闻指标:
+Precision=0.9605, Recall=0.8586, F1-score=0.9067
+假新闻指标:
+Precision=0.8028, Recall=0.9421, F1-score=0.8669
+Epoch 3/40, Train Loss: 0.5278, Val Loss: 0.4672, Val Accuracy: 0.8903
+真新闻指标:
+Precision=0.9628, Recall=0.9141, F1-score=0.9378
+假新闻指标:
+Precision=0.8702, Recall=0.9421, F1-score=0.9048
+Epoch 4/40, Train Loss: 0.3844, Val Loss: 0.4017, Val Accuracy: 0.9248
+真新闻指标:
+Precision=0.9487, Recall=0.9343, F1-score=0.9415
+假新闻指标:
+Precision=0.8952, Recall=0.9174, F1-score=0.9061
+Epoch 5/40, Train Loss: 0.3133, Val Loss: 0.3693, Val Accuracy: 0.9279
+真新闻指标:
+Precision=0.9579, Recall=0.9192, F1-score=0.9381
+假新闻指标:
+Precision=0.8760, Recall=0.9339, F1-score=0.9040
+Epoch 6/40, Train Loss: 0.2634, Val Loss: 0.3854, Val Accuracy: 0.9248
+真新闻指标:
+Precision=0.9585, Recall=0.9343, F1-score=0.9463
+假新闻指标:
+Precision=0.8968, Recall=0.9339, F1-score=0.9150
+Epoch 7/40, Train Loss: 0.2092, Val Loss: 0.4031, Val Accuracy: 0.9342
+真新闻指标:
+Precision=0.9450, Recall=0.9545, F1-score=0.9497
+假新闻指标:
+Precision=0.9244, Recall=0.9091, F1-score=0.9167
+Epoch 8/40, Train Loss: 0.1805, Val Loss: 0.3907, Val Accuracy: 0.9373
+真新闻指标:
+Precision=0.9447, Recall=0.9495, F1-score=0.9471
+假新闻指标:
+Precision=0.9167, Recall=0.9091, F1-score=0.9129
+Epoch 9/40, Train Loss: 0.1611, Val Loss: 0.4186, Val Accuracy: 0.9342
+真新闻指标:
+Precision=0.9683, Recall=0.9242, F1-score=0.9457
+假新闻指标:
+Precision=0.8846, Recall=0.9504, F1-score=0.9163
+Epoch 10/40, Train Loss: 0.1221, Val Loss: 0.4486, Val Accuracy: 0.9342
+Early stopping triggered.
